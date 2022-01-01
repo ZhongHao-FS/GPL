@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZhongHao_CE04</string>
+    <string name="imageview_description">Profile image</string>
+    <string-array name="spinner_views">
+        <item>Grid View</item>
+        <item>List View</item>
+    </string-array>
+    <string-array name="spinner_adapters">
+        <item>Array Adapter</item>
+        <item>Simple Adapter</item>
+        <item>Base Adapter</item>
+    </string-array>
+</resources>

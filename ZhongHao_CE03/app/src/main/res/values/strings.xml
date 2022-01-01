@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZhongHao_CE03</string>
+    <string name="text_hint">Enter a word to add</string>
+    <string name="button_add">ADD</string>
+    <string name="textView_average">Average word length: 0</string>
+    <string name="textView_median">Median word length: 0</string>
+    <string name="button_view">View</string>
+    <string name="error_empty">Error: Nothing was entered</string>
+    <string name="error_whiteSpace">Error: Only space was entered</string>
+    <string name="error_redundant">Error: This word was already used</string>
+    <string name="alert_title">Selected Word:</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZhongHao_CE05</string>
+    <string name="text_description_name">Name</string>
+    <string name="image_description">Profile Image</string>
+    <string name="text_description_email">Email</string>
+    <string name="text_description_dob">Birthday</string>
+    <string name="text_description_about">About</string>
+</resources>

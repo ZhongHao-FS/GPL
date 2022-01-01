@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ZhongHao_CE09</string>
+    <string name="update_notConnected">User is not connected</string>
+    <string name="image_description">Bookcover</string>
+    <string name="webAddress_GoogleAPI">https://www.googleapis.com/books/v1/volumes?q=android</string>
+</resources>

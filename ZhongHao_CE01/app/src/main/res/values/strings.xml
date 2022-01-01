@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ZhongHao_CE01</string>
+    <string name="guess_count">Wrong Guesses Count</string>
+    <string name="button1">A</string>
+    <string name="button2">A</string>
+    <string name="button3">B</string>
+    <string name="button4">B</string>
+    <string name="button5">C</string>
+    <string name="button6">C</string>
+    <string name="button7">D</string>
+    <string name="button8">D</string>
+    <string name="button9">E</string>
+    <string name="button10">E</string>
+    <string name="button11">F</string>
+    <string name="button12">F</string>
+    <string name="button13">G</string>
+    <string name="button14">G</string>
+    <string name="button15">H</string>
+    <string name="button16">H</string>
+    <string name="countingNum">%1$d</string>
+    <string name="button_restart">Restart</string>
+</resources>

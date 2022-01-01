@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZhongHao_CE06</string>
+    <string name="tv_colon">:</string>
+    <string name="editText_min_hint">Minute(s)</string>
+    <string name="editText_sec_hint">Second(s)</string>
+    <string name="button_text">Start</string>
+    <string name="button2_text">Stop</string>
+    <string name="onWrongInput">Please enter a valid time!</string>
+    <string name="onPre_toast">Timer started.</string>
+    <string name="onProg_timer">00:1%2d</string>
+    <string name="onProg_timer2">1%2d:2%2d</string>
+    <string name="onPostExe">Time elapsed 1%2d minute(s) 2%2d second(s)</string>
+    <string name="onFinished_title">Timer finished!</string>
+    <string name="onFinished_pop">Ok</string>
+</resources>

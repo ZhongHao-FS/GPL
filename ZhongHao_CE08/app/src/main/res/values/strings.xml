@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZhongHao_CE08</string>
+    <string name="buttonText">Submit</string>
+    <string name="toast_msg">Input cannot be empty</string>
+</resources>
